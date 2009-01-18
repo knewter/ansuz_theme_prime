@@ -26,6 +26,7 @@ html, body{ background-color: #5e0000; }
   top: 90px;
   position: absolute;
   color: #ddd;
+  font-style: oblique;
 }
 #navigation{
   position: absolute;
