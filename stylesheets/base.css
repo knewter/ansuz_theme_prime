@@ -23,7 +23,7 @@ html, body{ background-color: #5e0000; }
   font-family: Georgia, serif;
   font-size: 2em;
   left: 354px;
-  top: 90px
+  top: 90px;
   position: absolute;
   color: #ddd;
 }
