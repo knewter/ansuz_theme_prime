@@ -1,6 +1,12 @@
-html, body{ background-color: #5e0000; }
+html, body{
+  background-color: #5e0000;
+  background-image: url(/themes/primeengineering/images/dropshadow_bg.png);
+  background-repeat: repeat-y;
+  background-position: center top;
+}
 #content_wrapper{
   width: 950px;
+  margin: 0 auto;
 }
 #header{
   height: 132px;
