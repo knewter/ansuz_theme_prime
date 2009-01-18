@@ -1,5 +1,7 @@
 html, body{
   background-color: #5e0000;
+}
+#wrapper{
   background-image: url(/themes/primeengineering/images/dropshadow_bg.png);
   background-repeat: repeat-y;
   background-position: center top;
