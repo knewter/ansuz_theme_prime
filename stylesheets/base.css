@@ -9,7 +9,7 @@ html, body{
   margin: 0 auto;
 }
 #header{
-  height: 132px;
+  height: 122px;
   background-image: url(/themes/primeengineering/images/header_bg_1.png);
   background-color: #0f0000;
   position: relative;
@@ -17,7 +17,7 @@ html, body{
 #header h1{
   position: absolute;
   left: 15px;
-  top: 25px;
+  top: 15px;
   background-image: url(/themes/primeengineering/images/prime_logo.png);
   width: 357px;
   height: 90px;
@@ -29,7 +29,7 @@ html, body{
   font-family: Georgia, serif;
   font-size: 2em;
   left: 354px;
-  top: 90px;
+  top: 82px;
   position: absolute;
   color: #ddd;
   font-style: oblique;
