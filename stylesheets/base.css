@@ -101,3 +101,12 @@ html, body{
 .imgprin{
   height: 535px;
 }
+table.form-table tbody th{
+  background-color: #ddd;
+  text-align: right;
+  padding: 10px;
+  vertical-align: top;
+}
+table.form-table tbody td{
+  padding: 10px;
+}
