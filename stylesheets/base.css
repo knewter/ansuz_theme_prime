@@ -22,7 +22,7 @@ html, body{ background-color: #5e0000; }
 #navigation{
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 16px;
 }
 #navigation h3{
   display: none;
