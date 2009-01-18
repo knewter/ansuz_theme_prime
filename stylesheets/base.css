@@ -24,6 +24,9 @@ html, body{ background-color: #5e0000; }
   right: 10px;
   top: 0;
 }
+#navigation h3{
+  display: none;
+}
 #navigation li{
   float: left;
 }
