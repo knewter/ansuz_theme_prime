@@ -19,6 +19,14 @@ html, body{ background-color: #5e0000; }
 #header h1 span{
   display: none;
 }
+#header h2{
+  font-family: Georgia, serif;
+  font-size: 2em;
+  left: 354px;
+  top: 90px
+  position: absolute;
+  color: #ddd;
+}
 #navigation{
   position: absolute;
   right: 10px;
