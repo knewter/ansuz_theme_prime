@@ -64,7 +64,14 @@ html, body{ background-color: #5e0000; }
 }
 #footer{
   background-color: #270000;
+  padding: 10px;
   min-height: 20px;
+}
+#footer h3{
+  background-color: black;
+  color: white;
+  margin: -10px -10px 10px -10px;
+  padding: 10px;
 }
 .clear{
   clear: both;
