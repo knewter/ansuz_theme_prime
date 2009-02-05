@@ -50,6 +50,7 @@ h3{
 }
 #navigation li{
   float: left;
+  position: relative;
 }
 #navigation li a{
   color: #ddd;
@@ -66,12 +67,13 @@ h3{
   font-weight: bold;
 }
 #navigation li ul{
-  display: none;
+  position: absolute;
+  left: -9999%;
 }
 #navigation li li a{
 }
 #navigation li:hover ul{
-  display: block;
+  left: auto;
 }
 #content{
   background-color: white;
