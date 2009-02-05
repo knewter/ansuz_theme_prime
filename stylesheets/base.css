@@ -34,6 +34,12 @@ html, body{
   color: #ddd;
   font-style: oblique;
 }
+h2{
+  font-size: 150%;
+}
+h3{
+  font-size: 130%;
+}
 #navigation{
   position: absolute;
   right: 10px;
@@ -58,6 +64,14 @@ html, body{
 #navigation li.active a{
   color: white;
   font-weight: bold;
+}
+#navigation li ul{
+  display: none;
+}
+#navigation li li a{
+}
+#navigation li:hover ul{
+  display: block;
 }
 #content{
   background-color: white;
