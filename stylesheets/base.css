@@ -51,6 +51,8 @@ h3{
 #navigation li{
   float: left;
   position: relative;
+  background-color: black;
+  width: 150px;
 }
 #navigation li a{
   color: #ddd;
@@ -65,6 +67,10 @@ h3{
 #navigation li.active a{
   color: white;
   font-weight: bold;
+}
+#navigation li.active li a{
+  color: auto;
+  font-weight: normal;
 }
 #navigation li ul{
   position: absolute;
@@ -84,10 +90,14 @@ h3{
   background-color: #0f0000;
   min-height: 60px;
 }
+#subfooter a{
+  color: white;
+}
 #footer{
   background-color: #270000;
   padding: 10px;
   min-height: 20px;
+  color: white;
 }
 #footer h3{
   background-color: black;
