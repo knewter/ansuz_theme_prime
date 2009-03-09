@@ -53,6 +53,7 @@ h3{
   position: relative;
   background-color: black;
   width: 150px;
+  padding: 10px 6px;
 }
 #navigation li a{
   color: #ddd;
